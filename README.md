@@ -1,4 +1,4 @@
-# Bucket
+# Fabric
 
 This repository is created for practicing Git and GitHub basics.  
 I am learning how to create repositories, make commits, and push changes using GitHub Desktop and Fabric.
